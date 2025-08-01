@@ -1,15 +1,11 @@
 services:
-  - name: "My Pages"
+  - name: "FIBOS 123"
     api:
-      - url: "https://blog.ch3nyang.top"
-      - url: "https://file.ch3nyang.top"
-      - url: "https://til.ch3nyang.top"
-      - url: "https://mind.ch3nyang.top"
-  - name: "My Services"
-    health:
-      - url: "https://docker-registry.ch3nyang.top/health"
-      - url: "https://2024.ch3nyang.top/health"
+      - url: "https://www.fibos123.com"
+      - url: "https://snapshots.fibos123.com"
+  - name: "FIBOS API"
     api:
-      - url: "https://docker-registry.ch3nyang.top/v2"
-        status_code: 401
-      - url: "https://2024.ch3nyang.top"
+      - url: "https://to-rpc.fibos.io/v1/chain/get_info"
+      - url: "https://rpc-mainnet.fibos123.com/v1/chain/get_info"
+
+      
