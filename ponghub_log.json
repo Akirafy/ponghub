@@ -500,6 +500,10 @@
       {
         "time": "2025-08-16T22:38:42Z",
         "online": "all"
+      },
+      {
+        "time": "2025-08-16T23:08:14Z",
+        "online": "all"
       }
     ],
     "ports": {
@@ -1128,6 +1132,11 @@
           "time": "2025-08-16T22:38:43Z",
           "online": "all",
           "response_time": 470
+        },
+        {
+          "time": "2025-08-16T23:08:14Z",
+          "online": "all",
+          "response_time": 461
         }
       ],
       "https://www.fibos123.com": [
@@ -1755,16 +1764,17 @@
           "time": "2025-08-16T22:38:42Z",
           "online": "all",
           "response_time": 214
+        },
+        {
+          "time": "2025-08-16T23:08:14Z",
+          "online": "all",
+          "response_time": 166
         }
       ]
     }
   },
   "FIBOS API": {
     "service_history": [
-      {
-        "time": "2025-08-13T22:38:46Z",
-        "online": "part"
-      },
       {
         "time": "2025-08-13T23:09:02Z",
         "online": "part"
@@ -2264,15 +2274,14 @@
       {
         "time": "2025-08-16T22:38:43Z",
         "online": "part"
+      },
+      {
+        "time": "2025-08-16T23:08:15Z",
+        "online": "part"
       }
     ],
     "ports": {
       "https://rpc-mainnet.fibos123.com/v1/chain/get_info": [
-        {
-          "time": "2025-08-13T22:38:47Z",
-          "online": "all",
-          "response_time": 527
-        },
         {
           "time": "2025-08-13T23:09:03Z",
           "online": "all",
@@ -2897,13 +2906,14 @@
           "time": "2025-08-16T22:38:44Z",
           "online": "all",
           "response_time": 575
+        },
+        {
+          "time": "2025-08-16T23:08:16Z",
+          "online": "all",
+          "response_time": 603
         }
       ],
       "https://to-rpc.fibos.io/v1/chain/get_info": [
-        {
-          "time": "2025-08-13T22:38:46Z",
-          "online": "none"
-        },
         {
           "time": "2025-08-13T23:09:02Z",
           "online": "none"
@@ -3402,6 +3412,10 @@
         },
         {
           "time": "2025-08-16T22:38:43Z",
+          "online": "none"
+        },
+        {
+          "time": "2025-08-16T23:08:15Z",
           "online": "none"
         }
       ]
