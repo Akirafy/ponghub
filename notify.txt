@@ -1,0 +1,2 @@
+FIBOS API
+	https://to-rpc.fibos.io/v1/chain/get_info is unavailable.
