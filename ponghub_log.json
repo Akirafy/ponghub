@@ -520,6 +520,10 @@
       {
         "time": "2025-08-23T22:07:31Z",
         "online": "all"
+      },
+      {
+        "time": "2025-08-23T22:36:56Z",
+        "online": "all"
       }
     ],
     "ports": {
@@ -1173,6 +1177,11 @@
           "time": "2025-08-23T22:07:31Z",
           "online": "all",
           "response_time": 398
+        },
+        {
+          "time": "2025-08-23T22:36:56Z",
+          "online": "all",
+          "response_time": 466
         }
       ],
       "https://www.fibos123.com": [
@@ -1825,6 +1834,11 @@
           "time": "2025-08-23T22:07:31Z",
           "online": "all",
           "response_time": 173
+        },
+        {
+          "time": "2025-08-23T22:36:56Z",
+          "online": "all",
+          "response_time": 154
         }
       ]
     }
@@ -2349,6 +2363,10 @@
       },
       {
         "time": "2025-08-23T22:07:32Z",
+        "online": "part"
+      },
+      {
+        "time": "2025-08-23T22:36:57Z",
         "online": "part"
       }
     ],
@@ -3003,6 +3021,11 @@
           "time": "2025-08-23T22:07:32Z",
           "online": "all",
           "response_time": 404
+        },
+        {
+          "time": "2025-08-23T22:36:58Z",
+          "online": "all",
+          "response_time": 583
         }
       ],
       "https://to-rpc.fibos.io/v1/chain/get_info": [
@@ -3524,6 +3547,10 @@
         },
         {
           "time": "2025-08-23T22:07:32Z",
+          "online": "none"
+        },
+        {
+          "time": "2025-08-23T22:36:57Z",
           "online": "none"
         }
       ]
