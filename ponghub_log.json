@@ -2,10 +2,6 @@
   "FIBOS 123": {
     "service_history": [
       {
-        "time": "2025-09-01T18:43:21Z",
-        "online": "all"
-      },
-      {
         "time": "2025-09-01T19:04:16Z",
         "online": "all"
       },
@@ -524,15 +520,14 @@
       {
         "time": "2025-09-04T18:12:18Z",
         "online": "all"
+      },
+      {
+        "time": "2025-09-04T18:43:19Z",
+        "online": "all"
       }
     ],
     "ports": {
       "https://snapshots.fibos123.com": [
-        {
-          "time": "2025-09-01T18:43:21Z",
-          "online": "all",
-          "response_time": 465
-        },
         {
           "time": "2025-09-01T19:04:16Z",
           "online": "all",
@@ -1182,14 +1177,14 @@
           "time": "2025-09-04T18:12:19Z",
           "online": "all",
           "response_time": 380
+        },
+        {
+          "time": "2025-09-04T18:43:20Z",
+          "online": "all",
+          "response_time": 420
         }
       ],
       "https://www.fibos123.com": [
-        {
-          "time": "2025-09-01T18:43:21Z",
-          "online": "all",
-          "response_time": 152
-        },
         {
           "time": "2025-09-01T19:04:16Z",
           "online": "all",
@@ -1839,6 +1834,11 @@
           "time": "2025-09-04T18:12:18Z",
           "online": "all",
           "response_time": 508
+        },
+        {
+          "time": "2025-09-04T18:43:19Z",
+          "online": "all",
+          "response_time": 167
         }
       ]
     }
@@ -2368,6 +2368,10 @@
       {
         "time": "2025-09-04T18:12:19Z",
         "online": "none"
+      },
+      {
+        "time": "2025-09-04T18:43:20Z",
+        "online": "none"
       }
     ],
     "ports": {
@@ -2895,6 +2899,10 @@
         {
           "time": "2025-09-04T18:12:20Z",
           "online": "none"
+        },
+        {
+          "time": "2025-09-04T18:43:21Z",
+          "online": "none"
         }
       ],
       "https://to-rpc.fibos.io/v1/chain/get_info": [
@@ -3420,6 +3428,10 @@
         },
         {
           "time": "2025-09-04T18:12:19Z",
+          "online": "none"
+        },
+        {
+          "time": "2025-09-04T18:43:20Z",
           "online": "none"
         }
       ]
