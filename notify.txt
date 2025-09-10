@@ -1,2 +1,3 @@
 FIBOS API
 	https://to-rpc.fibos.io/v1/chain/get_info is unavailable.
+	https://rpc-mainnet.fibos123.com/v1/chain/get_info is unavailable.
