@@ -2,43 +2,20 @@
   "FIBOS 123": {
     "service_history": [
       {
-        "time": "2025-09-19T02:17:27Z",
-        "online": "all"
-      },
-      {
-        "time": "2025-09-19T03:11:15Z",
-        "online": "all"
-      },
-      {
-        "time": "2025-09-20T00:41:14Z",
-        "online": "all"
-      },
-      {
         "time": "2025-09-21T00:48:01Z",
         "online": "all"
       },
       {
         "time": "2025-09-22T00:47:44Z",
         "online": "all"
+      },
+      {
+        "time": "2025-09-23T00:42:58Z",
+        "online": "all"
       }
     ],
     "ports": {
       "https://snapshots.fibos123.com": [
-        {
-          "time": "2025-09-19T02:17:27Z",
-          "online": "all",
-          "response_time": 537
-        },
-        {
-          "time": "2025-09-19T03:11:15Z",
-          "online": "all",
-          "response_time": 577
-        },
-        {
-          "time": "2025-09-20T00:41:14Z",
-          "online": "all",
-          "response_time": 542
-        },
         {
           "time": "2025-09-21T00:48:02Z",
           "online": "all",
@@ -48,24 +25,14 @@
           "time": "2025-09-22T00:47:45Z",
           "online": "all",
           "response_time": 593
+        },
+        {
+          "time": "2025-09-23T00:42:58Z",
+          "online": "all",
+          "response_time": 544
         }
       ],
       "https://www.fibos123.com": [
-        {
-          "time": "2025-09-19T02:17:27Z",
-          "online": "all",
-          "response_time": 126
-        },
-        {
-          "time": "2025-09-19T03:11:15Z",
-          "online": "all",
-          "response_time": 133
-        },
-        {
-          "time": "2025-09-20T00:41:14Z",
-          "online": "all",
-          "response_time": 153
-        },
         {
           "time": "2025-09-21T00:48:01Z",
           "online": "all",
@@ -75,6 +42,11 @@
           "time": "2025-09-22T00:47:44Z",
           "online": "all",
           "response_time": 151
+        },
+        {
+          "time": "2025-09-23T00:42:58Z",
+          "online": "all",
+          "response_time": 139
         }
       ]
     }
@@ -82,43 +54,20 @@
   "FIBOS API": {
     "service_history": [
       {
-        "time": "2025-09-19T02:17:27Z",
-        "online": "part"
-      },
-      {
-        "time": "2025-09-19T03:11:15Z",
-        "online": "part"
-      },
-      {
-        "time": "2025-09-20T00:41:15Z",
-        "online": "part"
-      },
-      {
         "time": "2025-09-21T00:48:02Z",
         "online": "part"
       },
       {
         "time": "2025-09-22T00:47:45Z",
         "online": "part"
+      },
+      {
+        "time": "2025-09-23T00:42:59Z",
+        "online": "part"
       }
     ],
     "ports": {
       "https://rpc-mainnet.fibos123.com/v1/chain/get_info": [
-        {
-          "time": "2025-09-19T02:17:28Z",
-          "online": "all",
-          "response_time": 253
-        },
-        {
-          "time": "2025-09-19T03:11:17Z",
-          "online": "all",
-          "response_time": 228
-        },
-        {
-          "time": "2025-09-20T00:41:16Z",
-          "online": "all",
-          "response_time": 296
-        },
         {
           "time": "2025-09-21T00:48:03Z",
           "online": "all",
@@ -128,27 +77,24 @@
           "time": "2025-09-22T00:47:46Z",
           "online": "all",
           "response_time": 331
+        },
+        {
+          "time": "2025-09-23T00:43:00Z",
+          "online": "all",
+          "response_time": 194
         }
       ],
       "https://to-rpc.fibos.io/v1/chain/get_info": [
-        {
-          "time": "2025-09-19T02:17:27Z",
-          "online": "none"
-        },
-        {
-          "time": "2025-09-19T03:11:15Z",
-          "online": "none"
-        },
-        {
-          "time": "2025-09-20T00:41:15Z",
-          "online": "none"
-        },
         {
           "time": "2025-09-21T00:48:02Z",
           "online": "none"
         },
         {
           "time": "2025-09-22T00:47:45Z",
+          "online": "none"
+        },
+        {
+          "time": "2025-09-23T00:42:59Z",
           "online": "none"
         }
       ]
